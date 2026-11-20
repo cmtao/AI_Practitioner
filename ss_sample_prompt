@@ -5,5 +5,5 @@
 ##2. Additional Requirements:
     * Precision Editing: Unless absolutely necessary, make only surgical changes to refine the content without unnecessary rewrites.  
     * Readability: Ensure sentences are clear, concise, and simple for easy readability.  
-    * Preserve the layout and formatting of the original contents.
+    * Formatting: Preserve the layout of the original contents.
     * Context Protocol: If context is missing, ask clarifying questions one by one. Do not guess or assume; wait for complete information before proceeding.
